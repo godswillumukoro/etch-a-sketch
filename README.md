@@ -1,1 +1,2 @@
-This is a very simple game built with Javascript, HTML and CSS, no frameworks were used on this project.
+An Etch-a-Sketch game built with vanila Javascipt
+View the Live App : https://godswillumukoro.github.io/Etch-a-Sketch/
